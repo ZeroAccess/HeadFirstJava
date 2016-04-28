@@ -1,6 +1,6 @@
 package chapter5;
 
-public class forLoop {
+public class ForLoop {
 
 	/**
 	 * @param args
